@@ -4,7 +4,7 @@ Application web pédagogique illustrant **pas à pas** le fonctionnement de l'al
 
 Projet réalisé dans le cadre d'un projet universitaire de Licence 3, en collaboration avec **Anatole Legouix** et **Titouan Louvet**.
 
-> ℹ️ Le dépôt original a été créé par Anatole Legouix et est actuellement privé. Ce dépôt est une republication destinée à présenter le code et le fonctionnement de l'application.
+> Le dépôt original a été créé par Anatole Legouix et est actuellement privé. Ce dépôt est une republication destinée à présenter le code et le fonctionnement de l'application.
 
 ## Ce que fait l'application
 
@@ -14,7 +14,7 @@ Projet réalisé dans le cadre d'un projet universitaire de Licence 3, en collab
 - **Affichage** du keystream, du message chiffré, du résultat de XOR partiel, du MAC Poly1305 et du déchiffrement
 - **Découpage automatique** du message en blocs de 512 bits
 
-> ⚠️ **À ne pas utiliser en production.** Cette implémentation est volontairement simple, lisible et instrumentée pour l'enseignement. Pour un usage réel, utilisez `cryptography` (Python) ou `libsodium`.
+> **À ne pas utiliser en production.** Cette implémentation est volontairement simple, lisible et instrumentée pour l'enseignement. Pour un usage réel, utilisez `cryptography` (Python) ou `libsodium`.
 
 ## Stack technique
 
